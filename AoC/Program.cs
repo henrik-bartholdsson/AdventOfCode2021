@@ -15,7 +15,7 @@ namespace Day1
             //day2.Run();
 
 
-            var day3 = new Day3();
+            var day3 = new Day3B();
             day3.Run();
 
         }
